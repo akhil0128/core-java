@@ -1,0 +1,9 @@
+
+K
+java:S2097"Add a type test to this method.(ç‹—„8ä∞’éº0H¢RMINORZBUG
+n	java:S125"<This block of commented-out lines of code should be removed.(‹¸ÔÅ8◊∂¡éº0HˆRMAJORZ
+CODE_SMELL
+r
+java:S2259"AA "NullPointerException" could be thrown; "emp" is nullable here.(∞Ìı∏¯ˇˇˇˇ8ä∞’éº0HûRMAJORZBUG
+g	java:S125"<This block of commented-out lines of code should be removed.(€ñ≤˝H„RMAJORZ
+CODE_SMELL

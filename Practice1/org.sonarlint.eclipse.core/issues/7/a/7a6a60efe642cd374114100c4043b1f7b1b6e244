@@ -1,0 +1,9 @@
+
+g
+java:S1611"/Remove the parentheses around the "e" parameter(³¤°äúÿÿÿÿ8í·­®¼0H…RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(€†­ð8§â³®¼0H„RMAJORZ
+CODE_SMELL
+Š
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(³¤°äúÿÿÿÿ8§â³®¼0H†RMAJORZ
+CODE_SMELL

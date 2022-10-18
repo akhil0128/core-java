@@ -1,0 +1,28 @@
+
+s	java:S125#"<This block of commented-out lines of code should be removed.(…‹ğ³úÿÿÿÿ8ß…ÚŞ¼0HÖRMAJORZ
+CODE_SMELL
+b
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8ß…ÚŞ¼0HÈRMINORZ
+CODE_SMELL
+s	java:S1251"<This block of commented-out lines of code should be removed.(Ôêõµşÿÿÿÿ8åÔÖÖ¼0HÊRMAJORZ
+CODE_SMELL
+`
+java:S1128".Remove this unused import 'java.util.HashSet'.(Ê‚êX8ß…ÚŞ¼0HÜRMINORZ
+CODE_SMELL
+d
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8ß…ÚŞ¼0HØRMINORZ
+CODE_SMELL
+m	java:S125-"<This block of commented-out lines of code should be removed.(æ·ş8Œ¶“×¼0HĞRMAJORZ
+CODE_SMELL
+j
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8ß…ÚŞ¼0HÚRMINORZ
+CODE_SMELL
+s	java:S125'"<This block of commented-out lines of code should be removed.(ú—°œûÿÿÿÿ8ä¿ß×¼0HÍRMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8ÅîšØ¼0HÌRMAJORZ
+CODE_SMELL
+p
+java:S1128	"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ß…ÚŞ¼0HÒRMINORZ
+CODE_SMELL
+n	java:S1255"<This block of commented-out lines of code should be removed.(‹Í¶8Ù„Õ¼0HÔRMAJORZ
+CODE_SMELL

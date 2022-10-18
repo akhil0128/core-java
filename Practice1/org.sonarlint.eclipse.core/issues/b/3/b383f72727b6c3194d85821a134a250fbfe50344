@@ -1,0 +1,12 @@
+
+Š
+java:S6204)"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(û¸¶”ıÿÿÿÿ8ƒ©¡¶¼0HÌRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¸É¢ üÿÿÿÿ8ÿ‹Ò´¼0HÍRMAJORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(ƒÉØÂ8‚¨Â¶¼0HÎRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(†£³¤8ƒ©¡¶¼0HÏRMAJORZ
+CODE_SMELL
+
+java:S3655"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ù»åêûÿÿÿÿ8ÇçÖ¶¼0HĞRMAJORZBUG
